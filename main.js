@@ -101,3 +101,8 @@ switch (Nationality) {
     console.log('Hello'); // The output is hello because the second person nationality which is China is not listed above
     break;
 }
+
+/* Using a ternary operator to output if the 2nd person’s name is longer than 5 characters.*/
+let characters = 14;
+result = (characters > 5) ? "Yes" : "No";
+console.log("result");
