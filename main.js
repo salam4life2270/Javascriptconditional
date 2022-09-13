@@ -105,4 +105,4 @@ switch (Nationality) {
 /* Using a ternary operator to output if the 2nd person’s name is longer than 5 characters.*/
 let characters = 14;
 result = (characters > 5) ? "Yes" : "No";
-console.log("result");
+console.log(result);
